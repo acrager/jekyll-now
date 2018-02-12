@@ -144,7 +144,7 @@ $$
 \end{align}
 $$
 
-Converting the parallel pressure terms of $\div \overleftrightarrow P$ back to vector notation:
+Converting the parallel pressure terms of $$\div \overleftrightarrow P$$ back to vector notation:
 
 $$
 \begin{align}
@@ -173,7 +173,7 @@ P_\parallel \underbrace{[\underbrace{(\div \hat b)}_{\text{scalar}} \hat b ] }_{
 $$
 
 where I have used the fact that a tensor inner product with a vector results in a vector (for the middle term).
-Our final result for the parallel pressure components of $\div \overleftrightarrow P$ in vector notation is then
+Our final result for the parallel pressure components of $$\div \overleftrightarrow P$$ in vector notation is then
 
 $$
 \begin{align}
@@ -199,7 +199,7 @@ $$
 
 where $$\vec \kappa$$ is the magnetic curvature. $$\vec \kappa$$ is positive pointing in toward the curvature focal point.
 
-We can use Maxwell's equation for the divergence of the magnetic field to determine the divergence of the \emph{direction} of the magnetic field.
+We can use Maxwell's equation for the divergence of the magnetic field to determine the divergence of the direction of the magnetic field.
 
 $$
 \begin{align}
@@ -264,7 +264,7 @@ P_\parallel [ \frac{-\hat b \cdot \grad B}{B}]\hat b
 \end{align}
 $$
 
-Using the similarities in the structure, we can expand the $- P_\bot (\div \hat b) \hat b$ term exactly as we did before for $P_\parallel$.
+Using the similarities in the structure, we can expand the $$- P_\bot (\div \hat b) \hat b$$ term exactly as we did before for $$P_\parallel$$.
 
 $$
 \begin{align}
