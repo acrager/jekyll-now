@@ -56,7 +56,7 @@ The perpendicular and parallel (to $$\hat b$$) components of the pressure tensor
 
 $$
 \begin{align}
-P_\parallel &\equiv (\overleftrightarrow{P} \vdot \hat b) \hat b
+P_\parallel &\equiv \hat b \vdot (\overleftrightarrow{P} \vdot \hat b)
 \end{align}
 $$
 
