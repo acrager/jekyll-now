@@ -29,4 +29,16 @@ permalink: /about/
 
 1. <a href="https://doi.org/10.1063/1.4960145">Scime et al. (2016). A micro-scale plasma spectrometer for space and plasma edge applications, Review of Scientific Instruments, 87:11</a>
 
+### Knowledge
+
+#### Programming Languages
+
+Python (1 yr), IDL (13 yrs), Mathematica, Matlab
+
+#### Tools
+
+Git, Subversion, LaTeX, Vi
+
+Jupyter Notebooks/Lab, Plot.ly
+
 
