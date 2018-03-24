@@ -21,6 +21,8 @@ permalink: /about/
 
 <a href="https://doi.org/10.1007/s11214-016-0245-4">Pollock et al. Space Sci Rev (2016) 199: 331.</a>
 
+<a href="https://doi.org/10.1063/1.4960145">Scime et al. (2016), A micro-scale plasma spectrometer for space and plasma edge applications, Review of Scientific Instruments, 87:11</a>
+
 
 
 
